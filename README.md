@@ -29,17 +29,12 @@ The game assist option is a way to have it help you choose your words when playi
 The play game option is a way to play wordle games in your console.
 
 # Launch Instructions
-step 1: open your console <br>
+step 1: open your console in the same folder of your python files<br>
 step 2: create a virtual enviroment <br>
 step 3: type the following command "pip install -r requirements.txt"<br>
 step 4: type the following command "cd [app directory]" <br>
 step 5: type the following command "python3 main.py" <br>
 step 6: type in the action you wish to perform.
-
-# Write Up
-To get a better understanding of why the code is written this way check out my detailed write up:
-
-* https://medium.com/@bellerb/wordle-solver-using-python-3-3c3bccd3b4fb
 
 ## Reference
 * https://github.com/dwyl/english-words
